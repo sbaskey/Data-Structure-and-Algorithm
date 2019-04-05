@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dijkstra.dir/main.c.o  -o dijkstra 
