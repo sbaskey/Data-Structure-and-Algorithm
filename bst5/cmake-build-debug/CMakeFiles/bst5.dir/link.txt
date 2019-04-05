@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bst5.dir/main.c.o  -o bst5 
