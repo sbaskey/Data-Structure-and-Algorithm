@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/krauskal.dir/main.c.o  -o krauskal 
